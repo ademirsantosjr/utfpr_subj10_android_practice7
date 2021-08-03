@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">List of Items</string>
+    <string name="rice">Rice</string>
+    <string name="coffee">Coffee</string>
+    <string name="milk">Milk</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="ketchup">Ketchup</string>
+    <string name="cereal">Cereal</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="bread">Bread</string>
 </resources>
