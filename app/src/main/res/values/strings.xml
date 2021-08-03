@@ -9,4 +9,5 @@
     <string name="apple">Apple</string>
     <string name="banana">Banana</string>
     <string name="bread">Bread</string>
+    <string name="clicked_on">"clicked on "</string>
 </resources>
